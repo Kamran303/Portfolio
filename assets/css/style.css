@@ -34,6 +34,8 @@
 
 }
 
+
+
 .main-container .main-left{
     padding-top: 115px;
     padding-left: 70px;
@@ -61,7 +63,7 @@
 
     padding-top: 26px;
  }
- 
+
  .main-container .btn-group{
     padding-top: 20px;
  }
@@ -73,8 +75,11 @@
      background-color: #000;
      padding: 6px;
      margin-right: 15px;
+     
     
  }
+
+ 
 
  .main-container .BTN{
     text-decoration: none;
@@ -83,21 +88,7 @@
     
  }
 
-
-
-
-
-
-
-
-  
-
-
  
-
-
-
-
 
  .trust{
     display: flex;
@@ -112,4 +103,424 @@
     justify-content: space-around
     
  }
+
+
+.services .text1{
+    text-align:center;
+    
+}
+
+.services .text1 .services1{
+    padding-bottom: 17px;
+    padding-top: 50px;
+    /* width: 30px; */
+/* height: 100px; */
+color: chocolate;
+font-size: 20px;
+
+}
+
+
+
+
+
+
+
+.text2{
+     
+    display: flex;
+    padding-top: 50px;
+    padding-left: 70px;
+    padding-right: 70px;
+    
+    
+    
+}
+
+.services .left-text{
+    width: 244px;
+height: 27px;
+padding-top: 30px;
+
+}
+
+.services .left-text1{
+color: #666;
+width: 252px;
+height: 84px;
+
+}
+
+
+
+.services .black{
+    width: 306px;
+height: 28px;
+
+}
+
+.services .li1{
+    padding-top: 8px;
+    padding-bottom:8px;
+}
+
+.services .middle-text{
+    width: 285px;
+height: 27px;
+
+padding-top: 25px;
+
+}
+
+.services .middle-text1{
+    color: #666;
+    width: 252px;
+    height: 84px;
+}
+
+.services .li2{
+    padding-top: 8px;
+    padding-bottom:8px;
+}
+
+
+
+.services .black1{
+    
+    width: 306px;
+height: 28px;
+top: 38px;
+padding: 0px 61px 0px 0px;
+}
+
+.right .right-text{
+    width: 285px;
+    height: 27px;
+    
+    padding-top: 25px;
+}
+
+.right .right-text1{
+    color: #666;
+    width: 252px;
+    height: 84px;
+    
+}
+
+.right .li3{
+
+    padding-top: 8px;
+    padding-bottom:8px;
+}
+
+
+
+
+.projects .project-container{
+    padding-top: 100px;
+    padding-left: 50px;
+}
+
+.projects h2{
+    padding-top: 20px;
+    padding-bottom: 15px;
+   
+  
+    color: purple;
+}
+
+
+
+
+.projects .btn{
+    display: flex;
+    justify-content: end;
+    padding-right: 50px;
+    
+   
+    padding-bottom: 30px;
+}
+
+.projects button{
+   
+    background-color: #000;
+    color: white;
+    padding: 5px 10px 5px 10px;
+    height: 30px;
+   
+
+     
+  
+    
+}
+
+.projects .projects-cards{
+    display: flex;
+    justify-content:center;
+    padding-left: 20px;
+   color: white;
+
+ 
+    
+}
+
+.projects .card1{
+
+    text-decoration: none;
+
+   color: white;
+    display: block;
+    width: 100%;
+    height: 18rem;
+    object-fit: cover;
+     
+}
+
+ .card1 h1{
+
+    color: #0d0d0d;
+   
+ }
+
+
+.projects .card1 p{
+   
+    
+   
+    color: blue;
+}
+
+.projects .card1 a{
+    text-decoration: none;
+    color: white;
+
+ }
+
+
+
+.projects .card2{
+    background-color: white;
+
+    display: block;
+    width: 100%;
+    height: 18rem;
+    object-fit: cover;
+
+height: 80px;
+  
+}
+
+
+
+.projects .card2 p{
+    
+    color:blue
+}
+
+
+ .projects .card2 a{
+    text-decoration: none;
+    color: white;
+   
+    
+ }
+ 
+ .projects .card3{
+ 
+    display: block;
+    width: 100px;
+    height: 18rem;
+    object-fit: cover;
+}
+
+.projects .card3 p{
+    
+    color:blue
+}
+
+ .projects .card3 a{
+    text-decoration: none;
+    color: white;
+ }
+
+
+ .blogs{
+    background-color: hwb(0 0% 100%);
+    padding-left: 50px;
+   margin-top: -150px;
+   padding-top: 120px;
+
+ }
+
+ .blogs .blog-left{
+  margin-top: 90px;
+    color: white;
+   
+    padding-top: 85px;
+    height: 40px;
+ }
+
+ 
+
+ .blogs h4{
+    color: #d8d803;
+ }
+
+ .blogs h1{
+    font-size: 40px;
+    padding-bottom: 12px;
+    padding-top: 12px;
+ }
+
+ .blogs .btn{
+   color: white;
+   padding-top: 30px;
+   text-decoration: none;
+ }
+
+
+
+  .section-1 .time{
+    display: flex;
+    justify-content:center;
+    color: slategray;
+    
+ }
+
+ .section-1 h2{
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding: 10px;
+ }
+ 
+ .section-1 a{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+ 
+ }
+
+
+ .line-1{
+    height: 1px;
+    background-color: white;
+    
+}
+
+  
+.section-2 .time{
+    display: flex;
+    justify-content:center;
+    padding-top: 30px;
+    color:slategray;
+}
+
+ .section-2 h2{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    color: white;
+ }
+
+ .section-2 a{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+   
+ }
+
+ .line-2{
+    height: 1px;
+    background-color: white;
+ }
+
+ .section-3 .time{
+    display: flex;
+    justify-content:center;
+    padding-top: 30px;
+    color:slategray;
+    
+ }
+
+ .section-3 h2{
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding: 10px;
+ }
+
+ .section-3 a{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+   
+ }
+
+
+ .line-3{
+    height: 1px;
+    background-color: white;
+ }
+
+ .section-4 .time{
+    display: flex;
+    justify-content:center;
+    padding-top: 30px;
+    color: slategray;
+ }
+
+ .section-4 h2{
+    display: flex;
+    justify-content: center;
+  padding: 10px;
+    color: white;
+ }
+
+ .section-4 a{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+   
+ }
+
+ .line-4{
+    height: 1px;
+    background-color: white;
+ }
+
+ .section-5 .time{
+    display: flex;
+    justify-content:center;
+    padding-top: 30px;
+    color: slategray;
+ }
+
+ .section-5 h2{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    color: white;
+ }
+
+ .section-5 a{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+   
+ }
+
+ 
+.line-5{
+    height: 1px;
+    background-color: white;
+}
+
+
+
 
